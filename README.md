@@ -1,5 +1,5 @@
 ### VL-Bias Dataset
-VL-Bias is available at [Google Drive](https://drive.google.com/drive/)  
+VL-Bias is available at [Google Drive](https://drive.google.com/file/d/1DztjuIHR7Wq-ddRlNWE4N-_HLPXfcBwZ/view?usp=sharing)  
 
 VL-Bias dataset collected 24k images, including 13K for the 52 activities and 11K for the 13 occupations.
 ![image](https://user-images.githubusercontent.com/103436137/162957372-0093208f-2fc8-4bdb-afa2-4af68f26b9bf.png)
