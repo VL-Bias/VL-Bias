@@ -1,5 +1,5 @@
 ### Example code for bias measurement of ALBEF
-Code is available at [github](https://github.com/VL-Bias/VL-Bias/code)  
+Code is available at [github](https://github.com/VL-Bias/VL-Bias/CounterBias.py)  
 
 
 
