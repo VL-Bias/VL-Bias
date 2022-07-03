@@ -27,7 +27,7 @@ transform = transforms.Compose([
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
 words = dict()
-file = open("../imSitu/verb.txt")
+file = open("../verb/verb.txt")
 while 1:
     line = file.readline()
     if not line:
@@ -39,7 +39,7 @@ while 1:
 parser = argparse.ArgumentParser()
 parser.add_argument('--config', default='./configs/Test.yaml')
 parser.add_argument('--checkpoint', default='./Pretrain/ALBEF.pth') 
-parser.add_argument('--data_path', default='../imSitu/')
+parser.add_argument('--data_path', default='../verb/')
 parser.add_argument('--task', default='avi')
 parser.add_argument('--batch_size', default=8)
 parser.add_argument('--output_path', default='output/')
